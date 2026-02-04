@@ -1,5 +1,5 @@
 # Евгений Несветаев
-Full‑stack developer (TypeScript) · Asia/Tbilisi · Remote
+Senior / Lead / Founding Full‑stack Engineer · TypeScript · Asia/Tbilisi · Remote
 
 [job@nesvet.dev](mailto:job@nesvet.dev) · [@Nesvetaev](https://t.me/Nesvetaev)
 
@@ -35,7 +35,9 @@ Full‑stack developer (TypeScript) · Asia/Tbilisi · Remote
 
 ## Инструменты
 
-Работаю в Cursor, активно использую AI-assisted development.
+Активно использую AI-assisted development.
+
+ESLint для единообразия и контроля качества кода.
 
 В новых проектах перешёл на Bun.
 

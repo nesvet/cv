@@ -11,7 +11,7 @@ Senior / Lead / Founding Full‑stack Engineer · TypeScript · Asia/Tbilisi (UT
 
 Последние 10 лет делал **Roadmap** — корпоративную систему управления инвестиционными проектами (Electron + web/on‑prem).
 
-Сайт: https://rm.technology · демо (5 минут): https://youtu.be/E-R6C8KmOXI
+Сайт: [rm.technology](https://rm.technology) · демо (5 минут): [youtu.be/E-R6C8KmOXI](https://youtu.be/E-R6C8KmOXI)
 
 ## Что умею
 

@@ -11,7 +11,7 @@ I build complex product systems: from architecture and code to deployment and op
 
 For the past 10 years, I built **Roadmap** — an enterprise investment project management system (Electron + web/on‑prem).
 
-Website: https://rm.technology · demo (5 minutes): https://youtu.be/E-R6C8KmOXI
+Website: [rm.technology](https://rm.technology) · demo (5 minutes; English subtitles): [youtu.be/E-R6C8KmOXI](https://www.youtube.com/watch?v=E-R6C8KmOXI&cc_load_policy=1&cc_lang_pref=en)
 
 ## What I do
 

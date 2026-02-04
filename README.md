@@ -1,5 +1,7 @@
+<p align="right"><b>На русском</b> | <a href="README.en.md">English</a></p>
+
 # Евгений Несветаев
-Senior / Lead / Founding Full‑stack Engineer · TypeScript · Asia/Tbilisi · Remote
+Senior / Lead / Founding Full‑stack Engineer · TypeScript · Asia/Tbilisi (UTC+4) · Remote
 
 [job@nesvet.dev](mailto:job@nesvet.dev) · [@Nesvetaev](https://t.me/Nesvetaev)
 

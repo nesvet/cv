@@ -1,4 +1,4 @@
-<p align="right"><b>На русском</b> | <a href="README.en.md">English</a></p>
+[![en](https://img.shields.io/badge/In-English-blue.svg)](README.en.md)
 
 # Евгений Несветаев
 Senior / Lead / Founding Full‑stack Engineer · TypeScript · Asia/Tbilisi (UTC+4) · Remote
